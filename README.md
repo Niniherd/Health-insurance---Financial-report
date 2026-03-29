@@ -80,7 +80,7 @@ A negative value (such as -17,519.04 for SEDE4 or -40,695.18 for SEDE9 in Octobe
 
 A positive value (such as the consistent 140.00 for SEDE1 during much of 2025) represents a favorable adjustment or recovery of previous provisions.
 
-Strategic Recommendations
+### Strategic Recommendations
 
 Liquidity Shock Plan:
 Immediately intervene in the management of SEDE5 and SEDE3 to reverse negative balances before the final closing of 2025.
