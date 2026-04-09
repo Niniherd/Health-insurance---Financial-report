@@ -25,8 +25,6 @@ Financial Closing Status (TRUE/FALSE)
 
 📑 2. Written Report (Analysis & Insights)
 
-I am not looking for a repetition of Excel figures. As an analyst, I expect you to explain the “why” behind the numbers:
-
 Accounts Receivable Quality:
 I’ve noticed changes in the Allowance for Doubtful Accounts. I need an assessment of whether increases in this metric in certain branches pose a risk to future liquidity.
 
